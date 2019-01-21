@@ -12,3 +12,4 @@ In no particular order:
 - [nativescript-sqlite](https://github.com/NathanaelA/nativescript-sqlite)
 - [nativescript-toasts](https://github.com/mdanishs/nativescript-toasts)
 - [nativescript-zxing](https://github.com/NathanaelA/nativescript-zxing)
+- [Font Awesome](https://fontawesome.com)
