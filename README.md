@@ -1,9 +1,13 @@
-[<img src="./img/playstore.png" width="153">](https://test.com)
-[<img src="./img/appstore.svg" width="153">](https://test.com)
+COMING SOON
+
+[<img src="./img/playstore.png" height="52">](https://test.com)
+[<img src="./img/appstore.svg"  height="52">](https://test.com)
 
 ## What is this?
 
 This app helps prevent TV networks from editing/clipping/re-ordering interviews. Some networks will modify videos in post-production to push an agenda or change a narrative.
+
+The quickest way to understand the problem being solved AND how it works is to watch this video
 
 ## How does it work?
 
