@@ -17,6 +17,8 @@ An interviewee places a phone in frame, with the ClipGuard app running. The app 
 - A timer that counts up (every 10s). This exposes editing and re-ordering.
 - A bar chart with data points (at said interval) created by a [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (PRNG). These data points make it harder for post-production replication of app AND give authentication to the sequence after the video airs.
 
+Once you hit the `Stop` button, a QR code will be generated (but not shown). Share it someplace safe (like your email).
+
 **After airing**, interviewee shares a QR code. This QR code can be scanned in the ClipGuard app to reproduce exactly the same sequence, at the same time, as when the interview occurred.
 
 ## Who does this help?
@@ -30,6 +32,10 @@ Nope. But re-producing will take some work and time. This is a deterrent, not a 
 ## Chart colors
 
 I tried to use colors on the chart that are [color blind friendly](http://mkweb.bcgsc.ca/colorblind/). I wanted to display 6 bars (last 60s) but things got too cramped, especially on small phones.
+
+## How long can I let the sequence run?
+
+In short, forever. No video is recorded, hence no space is used on your device.
 
 ## Ideas/Bugs?
 
