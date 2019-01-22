@@ -6,6 +6,10 @@ layout: no-header
 
 - [Overview video](https://youtu.be/znUuzyB3y1w)
 
+# Contact
+
+Visit [https://rynop.com/contact](https://rynop.com/contact/)
+
 # FAQ
 
 ## What is this?

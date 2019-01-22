@@ -1,3 +1,7 @@
+---
+layout: no-header
+---
+
 ## Software that made this possible
 
 In no particular order:
