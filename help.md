@@ -1,3 +1,7 @@
+---
+layout: no-header
+---
+
 # Help Videos
 
 - [Overview video](https://youtu.be/znUuzyB3y1w)
