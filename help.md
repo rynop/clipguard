@@ -8,7 +8,12 @@
 
 This app helps prevent TV networks from editing/clipping/re-ordering interviews. Some networks will modify videos in post-production to push an agenda or change a narrative.
 
-The quickest way to understand the problem being solved AND how it works is to watch this video
+The quickest way to understand the problem being solved AND how it works is to watch the [Overview video](https://youtu.be/znUuzyB3y1w). In short:
+
+1. Right before being interviewed, you enter a number to seed a [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
+1. A sequence starts playing. Get the app in frame while being interviewed. A sequence of PRNG data points as well as a timer are displayed. Timer shows viewers what was edited in post-production. Data points authenticate the sequence shown in the interview.
+1. Once you stop the sequence, a QR code is generated that can be shared **AFTER** airing.
+1. QR code is scanned in the ClipGuard app by viewers. They can reproduce the sequence at any second in the timeline to authenticate the video.
 
 ## How does it work?
 
