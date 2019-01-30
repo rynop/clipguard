@@ -1,13 +1,15 @@
 COMING SOON
 
-[<img src="./img/playstore.png" height="52">](https://test.com)
-[<img src="./img/appstore.svg"  height="52">](https://test.com)
+[<img src="./img/playstore.png" height="52">](https://play.google.com/store/apps/details?id=com.rynop.clipguard)
+[<img src="./img/appstore.svg"  height="52">](https://itunes.apple.com/us/app/clipguard/id1450439113?ls=1&mt=8)
 
 ## What is this?
 
 This app helps prevent TV networks from editing/clipping/re-ordering interviews. Some networks will modify videos in post-production to push an agenda or change a narrative.
 
-The quickest way to understand the problem being solved AND how it works is to watch this video
+The quickest way to understand the problem being solved AND how it works is to watch this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znUuzyB3y1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How does it work?
 
