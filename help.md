@@ -32,7 +32,7 @@ An interviewee places a phone in frame, with the ClipGuard app running. The app 
 
 Once you hit the `Stop` button, a QR code will be generated (but not shown). Share it someplace safe (like your email).
 
-**After airing**, interviewee shares a QR code. This QR code can be scanned in the ClipGuard app to reproduce exactly the same sequence, at the same time, as when the interview occurred.
+**After airing**, interviewee shares a QR code. This QR code can be scanned in the ClipGuard app (by viewers of the interview) to reproduce exactly the same sequence, at the same time, as when the interview occurred.
 
 ## Who does this help?
 
