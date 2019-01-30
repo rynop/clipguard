@@ -1,5 +1,3 @@
-COMING SOON
-
 [<img src="./img/playstore.png" height="52">](https://play.google.com/store/apps/details?id=com.rynop.clipguard)
 [<img src="./img/appstore.svg"  height="52">](https://itunes.apple.com/us/app/clipguard/id1450439113?ls=1&mt=8)
 
