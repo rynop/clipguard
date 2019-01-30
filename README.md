@@ -7,7 +7,7 @@ This app helps prevent TV networks from editing/clipping/re-ordering interviews.
 
 The quickest way to understand the problem being solved AND how it works is to watch this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znUuzyB3y1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/znUuzyB3y1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How does it work?
 
