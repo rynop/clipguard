@@ -13,8 +13,8 @@ The quickest way to understand the problem being solved AND how it works is to w
 
 An interviewee places a phone in frame, with the ClipGuard app running. The app displays:
 
-- A timer that counts up (every 10s). This exposes editing and re-ordering.
-- A bar chart with data points (at said interval) created by a [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (PRNG). These data points make it harder for post-production replication of app AND give authentication to the sequence after the video airs.
+- A timer that counts up. This exposes editing and re-ordering.
+- A bar chart with data points created by a [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (PRNG). These data points make it harder for post-production replication of app AND give authentication to the sequence after the video airs.
 
 **After airing**, interviewee shares a QR code. This QR code can be scanned in the ClipGuard app (by viewers of the interview) to reproduce exactly the same sequence, at the same time, as when the interview occurred.
 
