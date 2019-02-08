@@ -27,7 +27,7 @@ The quickest way to understand the problem being solved AND how it works is to w
 
 An interviewee places a phone in frame, with the ClipGuard app running. The app displays:
 
-- A timer that counts up (every 10s). This exposes editing and re-ordering.
+- A timer that counts up (every 1s). This exposes editing and re-ordering.
 - A bar chart with data points (at said interval) created by a [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) (PRNG). These data points make it harder for post-production replication of app AND give authentication to the sequence after the video airs.
 
 Once you hit the `Stop` button, a QR code will be generated (but not shown). Share it someplace safe (like your email).
