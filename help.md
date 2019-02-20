@@ -14,7 +14,9 @@ Visit [https://rynop.com/contact](https://rynop.com/contact/)
 
 ## What is this?
 
-This app helps prevent TV networks from editing/clipping/re-ordering interviews. Some networks will modify videos in post-production to push an agenda or change a narrative.
+An app aiming to protect video interviews while empowering viewers to authenticate said video.
+
+Editing video is normal and typically honest. However nefarious editors may modify videos in post-production (editing/clipping/re-ordering) to push an agenda or change a narrative.
 
 The quickest way to understand the problem being solved AND how it works is to watch the [Overview video](https://youtu.be/znUuzyB3y1w). In short:
 
@@ -37,6 +39,8 @@ Once you hit the `Stop` button, a QR code will be generated (but not shown). Sha
 ## Who does this help?
 
 Admittedly, probably only a handful of people in the entire world. This is my 1st app released to market. I wanted a semi-simple problem to solve. I thought this was a cool idea that no one had done before. Idea was inspired by Elon Musk's [60 minute interview](https://twitter.com/elonmusk/status/1072528643488972802). He's one person I could see this helping.
+
+This may also be useful for legal depositions. Proteting both the prosicution and defense - authenticating the un-altered recording.
 
 ## Is this foolproof?
 
