@@ -22,7 +22,9 @@ An interviewee places a phone in frame, with the ClipGuard app running. The app 
 
 ## Who does this help?
 
-Admittedly, probably only a handful of people in the entire world. This is my 1st app released to market. I wanted a semi-simple problem to solve. I thought this was a cool idea that no one had done before. Idea was inspired by Elon Musk's [60 minute interview](https://twitter.com/elonmusk/status/1072528643488972802). He's one person I could see this helping.
+Admittedly this app is only useful for a handful of people. I wanted to tackle an unsolved problem for my 1st app. Thought this was a nerdy yet novel solution.
+
+The Idea was inspired by Elon Musk's [60 minute interview](https://twitter.com/elonmusk/status/1072528643488972802). He's one person I could see this helping.
 
 This may also be useful for legal depositions.  Proteting both the prosicution and defense - authenticating the un-altered recording.
 
