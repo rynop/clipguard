@@ -11,6 +11,8 @@ The quickest way to understand the problem being solved AND how it works is to w
 
 <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/QUHjjNWz4gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+QR code in video above found [here](https://github.com/rynop/clipguard/blob/master/img/demo1QR.png)
+
 ## How does it work?
 
 An interviewee places a phone in frame, with the ClipGuard app running. The app displays:
@@ -26,7 +28,7 @@ Admittedly this app is only useful for a handful of people. I wanted to tackle a
 
 The Idea was inspired by Elon Musk's [60 minute interview](https://twitter.com/elonmusk/status/1072528643488972802). He's one person I could see this helping.
 
-This may also be useful for legal depositions.  Proteting both the prosicution and defense - authenticating the un-altered recording.
+This may also be useful for legal depositions. Proteting both the prosicution and defense - authenticating the un-altered recording.
 
 ## Is this foolproof?
 
