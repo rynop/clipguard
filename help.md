@@ -18,7 +18,7 @@ An app aiming to protect video interviews while empowering viewers to authentica
 
 Editing video is normal and typically honest. However nefarious editors may modify videos in post-production (editing/clipping/re-ordering) to push an agenda or change a narrative.
 
-The quickest way to understand the problem being solved AND how it works is to watch the [Overview video](https://youtu.be/QUHjjNWz4gc). In short:
+The quickest way to understand the problem being solved AND how it works is to read [this blog](https://rynop.com/2019/02/25/clipguard-app-to-protect-and-authenticate-video-interviews/) or watch the [Overview video](https://youtu.be/QUHjjNWz4gc). In short:
 
 1. Right before being interviewed, you enter a number to seed a [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
 1. A sequence starts playing. Get the app in frame while being interviewed. A sequence of PRNG data points as well as a timer are displayed. Timer shows viewers what was edited in post-production. Data points authenticate the sequence shown in the interview.

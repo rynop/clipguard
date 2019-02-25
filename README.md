@@ -7,7 +7,7 @@ An app aiming to protect video interviews while empowering viewers to authentica
 
 Editing video is normal and typically honest. However nefarious editors may modify videos in post-production (editing/clipping/re-ordering) to push an agenda or change a narrative.
 
-The quickest way to understand the problem being solved AND how it works is to watch this video:
+The quickest way to understand the problem being solved AND how it works is to read [this blog](https://rynop.com/2019/02/25/clipguard-app-to-protect-and-authenticate-video-interviews/) or watch this video:
 
 <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/QUHjjNWz4gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
