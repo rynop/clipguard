@@ -11,7 +11,7 @@ The quickest way to understand the problem being solved AND how it works is to w
 
 <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/QUHjjNWz4gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-QR code in video above found [here](https://github.com/rynop/clipguard/blob/master/img/demo1QR.png)
+QR code in video above can be found [here](https://github.com/rynop/clipguard/blob/master/img/demo1QR.png).
 
 ## How does it work?
 
